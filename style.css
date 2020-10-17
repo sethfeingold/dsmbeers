@@ -5,9 +5,15 @@
 .title-link {
     color: black;
     text-decoration: none;
+    padding-top: 15px;
 }
 
-.title-link:hover {
+.container {
+    width: 90%;
+    overflow: hidden;
+}
+
+/* .title-link:hover {
     animation: "beer-fill" 1s ease-out forwards;
 }
 
@@ -35,5 +41,5 @@
         background: linear-gradient(0deg, rgba(255,199,0,1) 0%, rgba(0,0,0,1) 78%, rgba(0,0,0,1) 100%);
         filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffc700",endColorstr="#000000",GradientType=1);
     }
-}
+} */
 
